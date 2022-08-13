@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/**/*.test.js"
+    "test": "mocha ./test/**/*.test.js",
+    "foo:bar": "scripty"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "mocha": "^10.0.0"
+  },
+  "devDependencies": {
+    "scripty": "^2.1.0"
   }
 }
