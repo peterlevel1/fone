@@ -1,0 +1,22 @@
+{
+  "name": "house",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "lala"
+  ],
+  "author": "peter",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "window": "^1.0.0"
+  }
+}
